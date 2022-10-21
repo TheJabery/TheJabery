@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheJabery
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Ethical hacking and  International  business adminstration. 
+- 🌱 I’m currently learning python, C#, Flutter, and  International  business adminstration. 
 - 💞️ I’m looking to collaborate on any laravel project, so don't be shy to ask.
 - 📫 How to reach me MY email "man561360@gmail.com", Instagram "smhljbry214"
 
